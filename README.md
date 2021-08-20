@@ -1,0 +1,2 @@
+# LXLCustomMonster
+一个用LXL实现的bds自定义怪物属性插件
